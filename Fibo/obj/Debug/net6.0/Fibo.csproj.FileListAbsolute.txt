@@ -1,0 +1,15 @@
+C:\Users\Kacper\source\repos\Fibo\Fibo\bin\Debug\net6.0\Fibo.exe
+C:\Users\Kacper\source\repos\Fibo\Fibo\bin\Debug\net6.0\Fibo.deps.json
+C:\Users\Kacper\source\repos\Fibo\Fibo\bin\Debug\net6.0\Fibo.runtimeconfig.json
+C:\Users\Kacper\source\repos\Fibo\Fibo\bin\Debug\net6.0\Fibo.dll
+C:\Users\Kacper\source\repos\Fibo\Fibo\bin\Debug\net6.0\Fibo.pdb
+C:\Users\Kacper\source\repos\Fibo\Fibo\obj\Debug\net6.0\Fibo.csproj.AssemblyReference.cache
+C:\Users\Kacper\source\repos\Fibo\Fibo\obj\Debug\net6.0\Fibo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\source\repos\Fibo\Fibo\obj\Debug\net6.0\Fibo.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\Fibo\Fibo\obj\Debug\net6.0\Fibo.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\Fibo\Fibo\obj\Debug\net6.0\Fibo.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\Fibo\Fibo\obj\Debug\net6.0\Fibo.dll
+C:\Users\Kacper\source\repos\Fibo\Fibo\obj\Debug\net6.0\refint\Fibo.dll
+C:\Users\Kacper\source\repos\Fibo\Fibo\obj\Debug\net6.0\Fibo.pdb
+C:\Users\Kacper\source\repos\Fibo\Fibo\obj\Debug\net6.0\Fibo.genruntimeconfig.cache
+C:\Users\Kacper\source\repos\Fibo\Fibo\obj\Debug\net6.0\ref\Fibo.dll
